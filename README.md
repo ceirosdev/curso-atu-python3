@@ -9,12 +9,14 @@ El código fuente se encuentra en la carpeta `src/` y está organizado por temas
 - **bucles**: Práctica con estructuras de repetición (`for`, `while`).
 - **condicionales**: Ejercicios sobre lógica de control y toma de decisiones (`if`, `elif`, `else`).
 - **strings**: Ejercicios sobre manipulación de cadenas de texto.
+- **listas**: Ejercicios sobre almacenamiento y modificación de listas.
+- **retos**: Ejercicios sobre algoritmos y juegos de consola.
 
 ## 🚀 Cómo ejecutar los ejercicios
 Para ejecutar cualquier archivo del proyecto, asegúrate de tener Python instalado y usa el siguiente comando en tu terminal:
 
 ```bash
-python nombre_del_archivo.py
+python juego-piedra-papel-tijera.py
 ```
 
 ## 📝 Notas adicionales
