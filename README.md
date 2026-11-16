@@ -5,12 +5,14 @@ Este repositorio contiene una serie de ejercicios prácticos para el aprendizaje
 ## 📂 Estructura del Proyecto
 El código fuente se encuentra en la carpeta `src/` y está organizado por temas para facilitar el estudio:
 
-- **variables**: Ejercicios sobre declaración, tipos de datos y manipulación básica.
 - **bucles**: Práctica con estructuras de repetición (`for`, `while`).
 - **condicionales**: Ejercicios sobre lógica de control y toma de decisiones (`if`, `elif`, `else`).
-- **strings**: Ejercicios sobre manipulación de cadenas de texto.
-- **listas**: Ejercicios sobre almacenamiento y modificación de listas.
+- **diccionarios**: Ejercicios sobre almacenar parejas clave y valor (`dict()`)
+- **listas**: Ejercicios sobre almacenamiento y modificación de listas (`list()`).
 - **retos**: Ejercicios sobre algoritmos y juegos de consola.
+- **strings**: Ejercicios sobre manipulación de cadenas de texto.
+- **tuplas**: Ejercicios sobre almacenamiento y modificación de listas (`tuple()`).
+- **variables**: Ejercicios sobre declaración, tipos de datos y manipulación básica.
 
 ## 🚀 Cómo ejecutar los ejercicios
 Para ejecutar cualquier archivo del proyecto, asegúrate de tener Python instalado y usa el siguiente comando en tu terminal:
