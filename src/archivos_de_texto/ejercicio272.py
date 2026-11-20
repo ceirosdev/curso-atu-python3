@@ -1,0 +1,10 @@
+import os
+ruta = os.path.join(os.path.dirname(__file__), "datos.txt")
+archi1=open(ruta,"a")
+archi1.write("nueva línea 1\n")
+archi1.write("nueva línea 2\n")
+archi1.close()
+archi1=open(ruta,"r")
+contenido=archi1.read()
+print(contenido)
+archi1.close()
