@@ -11,6 +11,7 @@ El código fuente se encuentra en la carpeta `src/` y está organizado por temas
 - **funciones**: Ejercicios sobre bloques de código reutilizables con funciones (`def`)
 - **listas**: Ejercicios sobre almacenamiento y modificación de listas (`list()`).
 - **retos**: Ejercicios sobre algoritmos y juegos de consola y su equivalente en UI (`tkinter`).
+- **sqlite**: Ejercicios sobre base de datos nativa de Python (`SQLite`) por consola y UI (`tkinter`).
 - **strings**: Ejercicios sobre manipulación de cadenas de texto.
 - **tuplas**: Ejercicios sobre almacenamiento y modificación de listas (`tuple()`).
 - **variables**: Ejercicios sobre declaración, tipos de datos y manipulación básica.
