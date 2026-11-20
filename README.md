@@ -26,13 +26,7 @@ El código fuente se encuentra en la carpeta `src/` y está organizado por temas
 - **sqlite**: Ejercicios sobre base de datos nativa de Python (`SQLite`) por consola y UI (`tkinter`).
 - **strings**: Ejercicios sobre manipulación de cadenas de texto.
 - **tuplas**: Ejercicios sobre almacenamiento y modificación de tuplas (`tuple()`).
-- **otras_cuestiones**: Ejercicios adicionales organizados por temáticas específicas:
-    - **comprension_listas**: Ejercicios sobre comprensión de listas.
-    - **func_orden_superior**: Ejercicios sobre funciones de orden superior.
-    - **lambdas**: Ejercicios sobre funciones anónimas (`lambda`).
-    - **modulos_paquetes**: Ejercicios sobre módulos y paquetes en Python.
-    - **paquete_urllib**: Ejercicios de manejo de peticiones web con `urllib`.
-    - **recursividad**: Ejercicios sobre algoritmos recursivos.
+- **variables**: Ejercicios sobre declaración, tipos de datos y manipulación básica.
 
 ## 🚀 Cómo ejecutar los ejercicios
 Para ejecutar cualquier archivo del proyecto, asegúrate de tener Python instalado y usa el siguiente comando en tu terminal:
