@@ -5,6 +5,7 @@ Este repositorio contiene una serie de ejercicios prácticos para el aprendizaje
 ## 📂 Estructura del Proyecto
 El código fuente se encuentra en la carpeta `src/` y está organizado por temas para facilitar el estudio:
 
+- **archivos_de_texto**: Escritura y lectura de archivos de textos por consola y UI (`tkinter`).
 - **bucles**: Práctica con estructuras de repetición (`for`, `while`).
 - **condicionales**: Ejercicios sobre lógica de control y toma de decisiones (`if`, `elif`, `else`).
 - **diccionarios**: Ejercicios sobre almacenar parejas clave y valor (`dict()`)
